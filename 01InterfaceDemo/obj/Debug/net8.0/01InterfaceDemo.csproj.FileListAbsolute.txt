@@ -1,0 +1,14 @@
+D:\DotNET\Codes\Practice\01InterfaceDemo\bin\Debug\net8.0\01InterfaceDemo.exe
+D:\DotNET\Codes\Practice\01InterfaceDemo\bin\Debug\net8.0\01InterfaceDemo.deps.json
+D:\DotNET\Codes\Practice\01InterfaceDemo\bin\Debug\net8.0\01InterfaceDemo.runtimeconfig.json
+D:\DotNET\Codes\Practice\01InterfaceDemo\bin\Debug\net8.0\01InterfaceDemo.dll
+D:\DotNET\Codes\Practice\01InterfaceDemo\bin\Debug\net8.0\01InterfaceDemo.pdb
+D:\DotNET\Codes\Practice\01InterfaceDemo\obj\Debug\net8.0\01InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Codes\Practice\01InterfaceDemo\obj\Debug\net8.0\01InterfaceDemo.AssemblyInfoInputs.cache
+D:\DotNET\Codes\Practice\01InterfaceDemo\obj\Debug\net8.0\01InterfaceDemo.AssemblyInfo.cs
+D:\DotNET\Codes\Practice\01InterfaceDemo\obj\Debug\net8.0\01InterfaceDemo.csproj.CoreCompileInputs.cache
+D:\DotNET\Codes\Practice\01InterfaceDemo\obj\Debug\net8.0\01InterfaceDemo.dll
+D:\DotNET\Codes\Practice\01InterfaceDemo\obj\Debug\net8.0\refint\01InterfaceDemo.dll
+D:\DotNET\Codes\Practice\01InterfaceDemo\obj\Debug\net8.0\01InterfaceDemo.pdb
+D:\DotNET\Codes\Practice\01InterfaceDemo\obj\Debug\net8.0\01InterfaceDemo.genruntimeconfig.cache
+D:\DotNET\Codes\Practice\01InterfaceDemo\obj\Debug\net8.0\ref\01InterfaceDemo.dll

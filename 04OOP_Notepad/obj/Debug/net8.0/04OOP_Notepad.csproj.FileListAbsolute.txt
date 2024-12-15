@@ -1,0 +1,14 @@
+D:\DotNET\Codes\Practice\04OOP_Notepad\bin\Debug\net8.0\04OOP_Notepad.exe
+D:\DotNET\Codes\Practice\04OOP_Notepad\bin\Debug\net8.0\04OOP_Notepad.deps.json
+D:\DotNET\Codes\Practice\04OOP_Notepad\bin\Debug\net8.0\04OOP_Notepad.runtimeconfig.json
+D:\DotNET\Codes\Practice\04OOP_Notepad\bin\Debug\net8.0\04OOP_Notepad.dll
+D:\DotNET\Codes\Practice\04OOP_Notepad\bin\Debug\net8.0\04OOP_Notepad.pdb
+D:\DotNET\Codes\Practice\04OOP_Notepad\obj\Debug\net8.0\04OOP_Notepad.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Codes\Practice\04OOP_Notepad\obj\Debug\net8.0\04OOP_Notepad.AssemblyInfoInputs.cache
+D:\DotNET\Codes\Practice\04OOP_Notepad\obj\Debug\net8.0\04OOP_Notepad.AssemblyInfo.cs
+D:\DotNET\Codes\Practice\04OOP_Notepad\obj\Debug\net8.0\04OOP_Notepad.csproj.CoreCompileInputs.cache
+D:\DotNET\Codes\Practice\04OOP_Notepad\obj\Debug\net8.0\04OOP_Notepad.dll
+D:\DotNET\Codes\Practice\04OOP_Notepad\obj\Debug\net8.0\refint\04OOP_Notepad.dll
+D:\DotNET\Codes\Practice\04OOP_Notepad\obj\Debug\net8.0\04OOP_Notepad.pdb
+D:\DotNET\Codes\Practice\04OOP_Notepad\obj\Debug\net8.0\04OOP_Notepad.genruntimeconfig.cache
+D:\DotNET\Codes\Practice\04OOP_Notepad\obj\Debug\net8.0\ref\04OOP_Notepad.dll

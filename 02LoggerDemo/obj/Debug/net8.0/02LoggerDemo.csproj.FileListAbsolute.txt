@@ -1,0 +1,14 @@
+D:\DotNET\Codes\Practice\02LoggerDemo\obj\Debug\net8.0\02LoggerDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Codes\Practice\02LoggerDemo\obj\Debug\net8.0\02LoggerDemo.AssemblyInfoInputs.cache
+D:\DotNET\Codes\Practice\02LoggerDemo\obj\Debug\net8.0\02LoggerDemo.AssemblyInfo.cs
+D:\DotNET\Codes\Practice\02LoggerDemo\obj\Debug\net8.0\02LoggerDemo.csproj.CoreCompileInputs.cache
+D:\DotNET\Codes\Practice\02LoggerDemo\bin\Debug\net8.0\02LoggerDemo.exe
+D:\DotNET\Codes\Practice\02LoggerDemo\bin\Debug\net8.0\02LoggerDemo.deps.json
+D:\DotNET\Codes\Practice\02LoggerDemo\bin\Debug\net8.0\02LoggerDemo.runtimeconfig.json
+D:\DotNET\Codes\Practice\02LoggerDemo\bin\Debug\net8.0\02LoggerDemo.dll
+D:\DotNET\Codes\Practice\02LoggerDemo\bin\Debug\net8.0\02LoggerDemo.pdb
+D:\DotNET\Codes\Practice\02LoggerDemo\obj\Debug\net8.0\02LoggerDemo.dll
+D:\DotNET\Codes\Practice\02LoggerDemo\obj\Debug\net8.0\refint\02LoggerDemo.dll
+D:\DotNET\Codes\Practice\02LoggerDemo\obj\Debug\net8.0\02LoggerDemo.pdb
+D:\DotNET\Codes\Practice\02LoggerDemo\obj\Debug\net8.0\02LoggerDemo.genruntimeconfig.cache
+D:\DotNET\Codes\Practice\02LoggerDemo\obj\Debug\net8.0\ref\02LoggerDemo.dll

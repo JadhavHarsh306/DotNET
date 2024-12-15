@@ -1,0 +1,14 @@
+D:\DotNET\Codes\Practice\04Properties\bin\Debug\net8.0\04Properties.exe
+D:\DotNET\Codes\Practice\04Properties\bin\Debug\net8.0\04Properties.deps.json
+D:\DotNET\Codes\Practice\04Properties\bin\Debug\net8.0\04Properties.runtimeconfig.json
+D:\DotNET\Codes\Practice\04Properties\bin\Debug\net8.0\04Properties.dll
+D:\DotNET\Codes\Practice\04Properties\bin\Debug\net8.0\04Properties.pdb
+D:\DotNET\Codes\Practice\04Properties\obj\Debug\net8.0\04Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Codes\Practice\04Properties\obj\Debug\net8.0\04Properties.AssemblyInfoInputs.cache
+D:\DotNET\Codes\Practice\04Properties\obj\Debug\net8.0\04Properties.AssemblyInfo.cs
+D:\DotNET\Codes\Practice\04Properties\obj\Debug\net8.0\04Properties.csproj.CoreCompileInputs.cache
+D:\DotNET\Codes\Practice\04Properties\obj\Debug\net8.0\04Properties.dll
+D:\DotNET\Codes\Practice\04Properties\obj\Debug\net8.0\refint\04Properties.dll
+D:\DotNET\Codes\Practice\04Properties\obj\Debug\net8.0\04Properties.pdb
+D:\DotNET\Codes\Practice\04Properties\obj\Debug\net8.0\04Properties.genruntimeconfig.cache
+D:\DotNET\Codes\Practice\04Properties\obj\Debug\net8.0\ref\04Properties.dll

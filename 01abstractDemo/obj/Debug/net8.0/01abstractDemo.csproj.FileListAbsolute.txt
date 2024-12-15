@@ -1,0 +1,14 @@
+D:\DotNET\Codes\Practice\01abstractDemo\bin\Debug\net8.0\01abstractDemo.exe
+D:\DotNET\Codes\Practice\01abstractDemo\bin\Debug\net8.0\01abstractDemo.deps.json
+D:\DotNET\Codes\Practice\01abstractDemo\bin\Debug\net8.0\01abstractDemo.runtimeconfig.json
+D:\DotNET\Codes\Practice\01abstractDemo\bin\Debug\net8.0\01abstractDemo.dll
+D:\DotNET\Codes\Practice\01abstractDemo\bin\Debug\net8.0\01abstractDemo.pdb
+D:\DotNET\Codes\Practice\01abstractDemo\obj\Debug\net8.0\01abstractDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Codes\Practice\01abstractDemo\obj\Debug\net8.0\01abstractDemo.AssemblyInfoInputs.cache
+D:\DotNET\Codes\Practice\01abstractDemo\obj\Debug\net8.0\01abstractDemo.AssemblyInfo.cs
+D:\DotNET\Codes\Practice\01abstractDemo\obj\Debug\net8.0\01abstractDemo.csproj.CoreCompileInputs.cache
+D:\DotNET\Codes\Practice\01abstractDemo\obj\Debug\net8.0\01abstractDemo.dll
+D:\DotNET\Codes\Practice\01abstractDemo\obj\Debug\net8.0\refint\01abstractDemo.dll
+D:\DotNET\Codes\Practice\01abstractDemo\obj\Debug\net8.0\01abstractDemo.pdb
+D:\DotNET\Codes\Practice\01abstractDemo\obj\Debug\net8.0\01abstractDemo.genruntimeconfig.cache
+D:\DotNET\Codes\Practice\01abstractDemo\obj\Debug\net8.0\ref\01abstractDemo.dll
