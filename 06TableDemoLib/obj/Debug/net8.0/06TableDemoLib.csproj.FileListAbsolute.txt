@@ -1,0 +1,12 @@
+D:\DotNET\Codes\Practice\06TableDemoLib\bin\Debug\net8.0\06TableDemoLib.deps.json
+D:\DotNET\Codes\Practice\06TableDemoLib\bin\Debug\net8.0\06TableDemoLib.dll
+D:\DotNET\Codes\Practice\06TableDemoLib\bin\Debug\net8.0\06TableDemoLib.pdb
+D:\DotNET\Codes\Practice\06TableDemoLib\obj\Debug\net8.0\06TableDemoLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Codes\Practice\06TableDemoLib\obj\Debug\net8.0\06TableDemoLib.AssemblyInfoInputs.cache
+D:\DotNET\Codes\Practice\06TableDemoLib\obj\Debug\net8.0\06TableDemoLib.AssemblyInfo.cs
+D:\DotNET\Codes\Practice\06TableDemoLib\obj\Debug\net8.0\06TableDemoLib.csproj.CoreCompileInputs.cache
+D:\DotNET\Codes\Practice\06TableDemoLib\obj\Debug\net8.0\06TableDemoLib.sourcelink.json
+D:\DotNET\Codes\Practice\06TableDemoLib\obj\Debug\net8.0\06TableDemoLib.dll
+D:\DotNET\Codes\Practice\06TableDemoLib\obj\Debug\net8.0\refint\06TableDemoLib.dll
+D:\DotNET\Codes\Practice\06TableDemoLib\obj\Debug\net8.0\06TableDemoLib.pdb
+D:\DotNET\Codes\Practice\06TableDemoLib\obj\Debug\net8.0\ref\06TableDemoLib.dll

@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "06EmployeeLib/1.0.0": {
+        "dependencies": {
+          "06TableDemoLib": "1.0.0"
+        },
+        "runtime": {
+          "06EmployeeLib.dll": {}
+        }
+      },
+      "06TableDemoLib/1.0.0": {
+        "runtime": {
+          "06TableDemoLib.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06EmployeeLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "06TableDemoLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

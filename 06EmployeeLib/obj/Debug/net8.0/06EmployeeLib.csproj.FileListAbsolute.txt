@@ -1,0 +1,16 @@
+D:\DotNET\Codes\Practice\06EmployeeLib\obj\Debug\net8.0\06EmployeeLib.csproj.AssemblyReference.cache
+D:\DotNET\Codes\Practice\06EmployeeLib\obj\Debug\net8.0\06EmployeeLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNET\Codes\Practice\06EmployeeLib\obj\Debug\net8.0\06EmployeeLib.AssemblyInfoInputs.cache
+D:\DotNET\Codes\Practice\06EmployeeLib\obj\Debug\net8.0\06EmployeeLib.AssemblyInfo.cs
+D:\DotNET\Codes\Practice\06EmployeeLib\obj\Debug\net8.0\06EmployeeLib.csproj.CoreCompileInputs.cache
+D:\DotNET\Codes\Practice\06EmployeeLib\obj\Debug\net8.0\06EmployeeLib.sourcelink.json
+D:\DotNET\Codes\Practice\06EmployeeLib\bin\Debug\net8.0\06EmployeeLib.deps.json
+D:\DotNET\Codes\Practice\06EmployeeLib\bin\Debug\net8.0\06EmployeeLib.dll
+D:\DotNET\Codes\Practice\06EmployeeLib\bin\Debug\net8.0\06EmployeeLib.pdb
+D:\DotNET\Codes\Practice\06EmployeeLib\bin\Debug\net8.0\06TableDemoLib.dll
+D:\DotNET\Codes\Practice\06EmployeeLib\bin\Debug\net8.0\06TableDemoLib.pdb
+D:\DotNET\Codes\Practice\06EmployeeLib\obj\Debug\net8.0\06Employ.9C5270DD.Up2Date
+D:\DotNET\Codes\Practice\06EmployeeLib\obj\Debug\net8.0\06EmployeeLib.dll
+D:\DotNET\Codes\Practice\06EmployeeLib\obj\Debug\net8.0\refint\06EmployeeLib.dll
+D:\DotNET\Codes\Practice\06EmployeeLib\obj\Debug\net8.0\06EmployeeLib.pdb
+D:\DotNET\Codes\Practice\06EmployeeLib\obj\Debug\net8.0\ref\06EmployeeLib.dll
